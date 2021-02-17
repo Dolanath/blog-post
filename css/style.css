@@ -30,3 +30,17 @@ img {
 .read-more {
   margin: 0;
 }
+
+.btn {
+  display: inline-block;
+  background-color: #104c90;
+  padding: 20px;
+  color: #fff;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #f1f1f1;
+  color: #000;
+}
